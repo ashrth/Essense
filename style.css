@@ -949,8 +949,8 @@ padding:10px 0;
 }
 
 /* Cart Responstive style */
-#cart   {
-    Overflow-x:scroll;
+#cart  table {
+    overflow-y:auto;
         
     
 }
