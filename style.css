@@ -44,7 +44,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 80px;
+    padding: 20px 30px;
     
      
     background-color: rgba(214, 170, 170, 0.932);
@@ -52,10 +52,10 @@ body{
 z-index: 999;
 position: sticky;
 top:0;
-left:0'
+left:0;
 
 }
-
+ 
 
 #navbar{
     display: flex;
