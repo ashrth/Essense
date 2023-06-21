@@ -12,6 +12,7 @@ This ecommerce showcase project includes the following features:
 4. Shopping cart: Allows users to add products to their cart and view the cart contents.
 5. Checkout: Provides a checkout process for users to complete their purchase.
 Responsive design: The website is optimized for different screen sizes, including mobile devices.
+6. Contact Us: Give contact details and a map view for the address
 
 # The css folder contains the CSS file used for styling the web pages. The style.css file is the main CSS file for the project.
 # The js directory contains the JavaScript file used for adding interactive functionality to the website. The script.js file is the main JavaScript file for the project.
